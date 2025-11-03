@@ -25,7 +25,7 @@ const Navbar = () => {
               variant="ghost"
               size="icon"
               className="text-muted-foreground hover:text-foreground"
-              onClick={() => window.open('https://github.com', '_blank')}
+              onClick={() => window.open('https://github.com/rishu12w/lip-read', '_blank')}
             >
               <Github className="w-5 h-5" />
             </Button>
